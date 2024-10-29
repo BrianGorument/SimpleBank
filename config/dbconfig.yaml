@@ -1,0 +1,4 @@
+development :
+  dialect : mysql
+  datasource : simplebank.db
+  dir : .

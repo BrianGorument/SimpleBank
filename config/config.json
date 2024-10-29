@@ -1,0 +1,11 @@
+{
+    "env" : "development",
+    "port" : "3306",
+    "mysql" : {
+        "host" : "localhost",
+        "database" : "simplebank",
+        "user" : "root",
+        "password" : ""
+    }
+    
+}
